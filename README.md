@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Decentralized Internet Architecture
 - 📫 How to reach me sagarzendex@gmail.com
-I create crazy ass project like VidChat app via sockets, URL Longener, Youtube Dislike Count Viewer Extension.
+
+I create crazy ass project like VidChat app via sockets, URL Longener, Youtube Dislike Count Viewer Extension and many more.
 I have expertise in python Development and intermediatese in django.
 Feel Free to contact me for any collaboration
 <!---
