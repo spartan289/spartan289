@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spartan289
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Decentralized Internet Architecture
 - 📫 How to reach me sagarzendex@gmail.com
 
 I create crazy project like VidChat app via sockets, URL Longener, Youtube Dislike Count Viewer Extension and many more.
