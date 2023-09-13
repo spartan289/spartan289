@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spartan289
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me sagarzendex@gmail.com
 
 I create crazy project like VidChat app via sockets,Audio Broadcasting over nearby devices, URL Longener, Youtube Dislike Count Viewer Extension and many more.
