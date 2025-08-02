@@ -2,15 +2,12 @@
 
 <h1 align="center">Hi there, I'm spartan289 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/spartan289.png" width="120" alt="spartan289 avatar">
-</p>
 
 ---
 
 🌟 **Welcome to my GitHub!**
 
-I'm a dedicated **Conversational AI enthusiast**, passionate about building intelligent chatbots, virtual assistants, and natural language solutions that bridge the gap between humans and machines. I love experimenting with cutting-edge NLP models and sharing insights with the community.
+I'm a dedicated **Conversational AI enthusiast**, passionate about building intelligent natural language solutions that bridge the gap between humans and machines. I love experimenting with cutting-edge NLP models and sharing insights with the community.
 
 ---
 
