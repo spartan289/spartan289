@@ -39,10 +39,3 @@ Python | Hugging Face Transformers | Rasa | spaCy | NLTK | TensorFlow | PyTorch 
   <img src="https://github-readme-stats.vercel.app/api?username=spartan289&show_icons=true&theme=github_dark" alt="spartan289's GitHub Stats">
 </p>
 
----
-
-> _“Machines will never replace human creativity, but they can help us reach new heights.”_
-
----
-
-_Thanks for visiting! Let's have a conversation about AI._
