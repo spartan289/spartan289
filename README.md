@@ -1,6 +1,6 @@
 <!-- Profile README for spartan289 -->
 
-<h1 align="center">Hi there, I'm spartan289 👋</h1>
+<h1 align="center">Hi there, I'm Sagar Rathore 👋</h1>
 
 
 ---
@@ -32,13 +32,6 @@ Python | Hugging Face Transformers | Rasa | spaCy | NLTK | TensorFlow | PyTorch 
 - Advanced dialogue management & reinforcement learning for conversation
 - Scaling NLP models for real-world deployments
 - Keeping up with the latest breakthroughs in LLMs and generative AI
-
----
-
-## 📫 How to reach me
-
-- Check out my repositories and leave feedback!
-- [GitHub Profile](https://github.com/spartan289)
 
 ---
 
